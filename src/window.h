@@ -5,6 +5,10 @@
 class Window {
 public:
 
+Window() {
+    
+}
+
 };
 
 
