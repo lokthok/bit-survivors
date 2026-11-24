@@ -2,7 +2,7 @@
 #define WINDOW_H
 
 
-class Camera {
+class Window {
 public:
 
 };
